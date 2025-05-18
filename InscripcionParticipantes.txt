@@ -1,0 +1,4 @@
+Aquí estaría el código para la incripción a participantes a eventos, si tuvieramos uno.
+
+Habrían varias funciones muy bonitas y ordenadas. Y otros archivos con controladores y para la persistencia.
+
