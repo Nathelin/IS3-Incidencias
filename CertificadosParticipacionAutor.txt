@@ -1,0 +1,2 @@
+Si es un autor de un evento finalizado, generar certificado de participación.
+
