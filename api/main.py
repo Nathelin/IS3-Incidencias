@@ -26,4 +26,4 @@ def listar_eventos():
         eventos = session.exec(select(Evento)).all()
         return eventos
     
-    
+# fin
